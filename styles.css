@@ -1,0 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+body { font-family: Arial, sans-serif; background: #f9f9f9; }
+h1 { color: darkblue; }
+nav a { padding: 5px 10px; text-decoration: none; color: black; }
+nav a:hover { background: lightblue; }
